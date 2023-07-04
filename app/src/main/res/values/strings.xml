@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chistes</string>
+    <string name="cualquiera">Cualquiera</string>
+    <string name="ingl_s">Inglés</string>
+    <string name="espa_ol">Español</string>
+    <string name="programaci_n">Programación</string>
+    <string name="obtener_chiste">Obtener Chiste</string>
+</resources>
